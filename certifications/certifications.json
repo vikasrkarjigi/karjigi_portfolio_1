@@ -1,0 +1,32 @@
+{
+  "certifications": [
+    {
+      "title": "Supervised Machine Learning: Regression and Classification",
+      "issuer": "DeepLearning.AI & Stanford ONLINE",
+      "issueDate": "June 13, 2025",
+      "credentialURL": "https://coursera.org/verify/KNKAFDDUJ6XU",
+      "imageURL": "https://raw.githubusercontent.com/vikasrkarjigi/karjigi_portfolio/main/certifications/20.%20Supervised%20Machine%20Learning.jpg"
+    },
+    {
+      "title": "Application of Markowitz Portfolio Theory to Build Your Own Portfolio",
+      "issuer": "The Build Fellowship",
+      "issueDate": "May 15, 2025",
+      "credentialURL": "",
+      "imageURL": "https://raw.githubusercontent.com/vikasrkarjigi/karjigi_portfolio/main/certifications/10.%20Application%20of%20Markowitz%20Portfolio%20Theory.jpg"
+    },
+    {
+      "title": "Integrating Large Language Model (LLM) Service Using Python",
+      "issuer": "The Build Fellowship",
+      "issueDate": "April 14, 2025",
+      "credentialURL": "",
+      "imageURL": "https://raw.githubusercontent.com/vikasrkarjigi/karjigi_portfolio/main/certifications/11.%20Integrating%20LLM%20Service%20Using%20Python.jpg"
+    },
+    {
+      "title": "Highlight Reel: Automated Sports Content Generation",
+      "issuer": "The Build Fellowship",
+      "issueDate": "December 23, 2024",
+      "credentialURL": "",
+      "imageURL": "https://raw.githubusercontent.com/vikasrkarjigi/karjigi_portfolio/main/certifications/12.%20Highlight%20Reel.jpg"
+    }
+  ]
+}
